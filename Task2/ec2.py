@@ -166,7 +166,7 @@ class Ec2Inventory(object):
             else:
                 data_to_print = self.json_format_dict(self.inventory, True)
 
-        print data_to_print
+        print(data_to_print)
 
 
     def is_cache_valid(self):
