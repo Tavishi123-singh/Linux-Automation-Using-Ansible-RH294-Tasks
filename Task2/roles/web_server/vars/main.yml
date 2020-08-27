@@ -1,0 +1,5 @@
+---
+# vars file for web_server
+
+dr_dir: /var/www/tavi
+newPort: 8080
